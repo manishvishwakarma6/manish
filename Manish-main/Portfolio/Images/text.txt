@@ -1,0 +1,90 @@
+I'm a Java Developer
+Highly motivated and dedicated MCA student. 
+Proficient in Java and SQL with a hunger to 
+learn and contribute. Ready to embark on a successful 
+journey in Software Development. I am an adaptable and
+ responsible person seeking a position in an IT position.
+  Looking forward an opportunities to work in a progressive 
+  and challenging environment, where I can enhance my skill 
+   knowledge. The ability to achieve perfection in one’s work
+    through hard-work. To work in a good organization, utilize 
+    my potential, knowledge and skills there in the way that
+     satisfactory result may be achieved.
+
+ © 2024 copyright all right reserved | Developed by IT Wallah
+
+ My Portfolio
+This is my personal website for better understanding me. here I have putted the all details about my journey. like qualification, projects,certification, acievements and skills.
+
+Bharatiya Swasthya Records(BSR)
+Participated in State level Hackathon, organized by Coding Thinker
+
+I was responsible for the database. The database is designed and built by me with the help of mongodb.
+
+Built our own project and worked on the idea of our own. Problem statement - Availability of individual's past medical record in database, where the patient and doctor can access the data anywhere, anytime and not rely to Carry the document everywhere when he have to move some other place or city.
+
+
+Excellence
+ I  have one year experience working with Kashi Higher Secondary School Amiliya, District-Sidhi (M.P.) as a Data Entry Operator/Computer Operator.        
+
+ 1. I have good knowledge in MS-OFFICE. 
+
+2.  I have  knowledge of work data entry in ms-offfice.                       
+
+3. Create note of tasks, files and progress.                           
+
+4. Compare data to source documents to ensure accurac.                           
+
+5. Correct, verify and delete non-required data.                           
+
+6. Transfer data from paper formats to computer files or                                 6
+
+7. database system utiizing keywords data recorders or optonal scanners. 
+
+certification
+
+1. Java Programming 
+It is quite pleasure to share a glimpse of some of acquiring technical skills in Java programming with the certificate of "Programming in Java".
+
+12-Weak course,
+
+hashtag#NPTEL hashtag#IITKharagpur
+
+It's a cheery to go with platform of back-end(Java), which is playing a vital peak role in today's technology.
+
+2. AWS Foundation
+It is quite pleasure to share a glimpse of some of acquiring technical skills in aws academy with the certificate of "AWS Cloud Foundation".
+
+It's a cheery to go with platform of  server (aws), which is playing a vital peak role in today's technology.
+
+3. Young Professional
+I am very excited to share with you Certificate of Young professional course by TCS Ion.
+
+this was the training course. so I have achieved a professional knowledge and gain experience.
+
+4.SQL
+I am contended to share my go through and the course of "SQL".
+
+It's a cheery to go with platform of Database(SQL).which is playing vital peak role today's technology.
+
+Well it's my beginning towards this course. Thankyou Data Flair and hashtag#dataflairteam for providing almost all tools and technologies required to equip with SQL skills at a single platform.
+
+5.Skill Development Program
+I have completed my skill development program. I am very happy to share with you Certificate of "Skill development program" .
+
+6.Debugging Competition
+ am very happy to share with you Certificate of Debugging Competition in Bansalotsav.
+
+ 7. Introduction to DSA using JAVA
+I am contended to share my go through and the course of "DSA".
+
+It's a cheery to go with platform of DSA. which is playing vital peak role today's technology.
+
+Well it's my beginning towards this course. Thankyou Data Flair and hashtag#dataflairteam for providing almost all tools and technologies required to equip with DSA skills at a single platform.
+
+8.C Programming
+I have successfully completed the "C for Beginners" course offered by Great Learning Academy.
+
+9.Python
+It is quite pleasure to share a glimpse of some of acquiring technical skills in python programming with the certificate of "Basics of Python"It's a cheery to go with platform of back-end(Python), which is playing a vital peak role in today's technology.it's very useful for Artificial intelligence.
+
